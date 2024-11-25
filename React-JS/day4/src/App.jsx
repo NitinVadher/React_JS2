@@ -6,9 +6,6 @@ import A from './counter';
 function App() {
   let [count, setCount] = useState(1)
 
-  // setInterval(() => {
-  //   setCount(count + 1)
-  // }, 1000)
 
   function inn() {
 
