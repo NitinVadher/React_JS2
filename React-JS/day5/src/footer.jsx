@@ -78,9 +78,8 @@ function Footer()
      </div>
     </div>
   
-
     <div id="ft-sec-2" class=" border-t border-[gray] h-[15%] w-full  flex  items-center justify-evenly ">
-    <div class="flex items-center"><i class="fa-solid fa-bag-shopping text-[orange]"></i> <span class="text-white ms-2">Become a seller</span> </div>
+    <div class="flex items-center"><i class="fa-solid fa-bag-shopping text-[orange]"></i> <span class="text-white ms-2 text-[20px] font-[900]">Nitin Vadher</span> </div>
     <div class="flex items-center"><i class="fa-solid fa-star text-[orange]"></i> <span class="text-white ms-2">Advertise</span> </div>
     <div class="flex items-center"><i class="fa-solid fa-gift text-[orange]"></i> <span class="text-white ms-2">Gift Cards</span></div>
     <div class="flex items-center"><i class="fa-solid fa-circle-question text-[orange]"></i> <span class="text-white ms-2">Help Center</span></div>
